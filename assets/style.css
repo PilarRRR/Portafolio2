@@ -227,9 +227,13 @@ body{
     background-color: var(--blue);
 }
 
-.carousel-slide{
+
+/*.carousel-item{
     gap: 1rem;
-}
+    display: inline;
+    align-items: center;
+    justify-content: center;
+}*/
 
 .portafolio-tittle{
     text-align: center;
